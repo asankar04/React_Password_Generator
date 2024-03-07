@@ -1,5 +1,6 @@
-# Getting Started with Create React App
+#Follow the steps below to initialize a React app, in order to get the password generator website working
 
+# Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
