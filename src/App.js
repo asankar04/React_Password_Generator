@@ -138,7 +138,7 @@ function App() {
           <div><button className={specialCharacters ? 'Clicked': 'Not-Clicked'} onClick={() => changeSC(!specialCharacters)}>Special Characters?</button></div>
         </div>
         <div className='output'>
-          <input className='outputField' type="text" value={password} placeholder='Your password here'/>        
+          <input className='outputField' type="text" value={password} readOnly placeholder='Your password here'/>        
           <button className='generateButton' onClick={handlePassword}>Generate</button>        
         </div>
     </div>
